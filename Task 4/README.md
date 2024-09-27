@@ -36,7 +36,7 @@ The full PDF report of the mini-project can be accessed [here](https://drive.goo
 ---
 
 ## Task 4c4: Plagiarism Report
-The plagiarism PDF report can be found [here](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/Task%204c4/PlagiarismReport_Deep_Learning_Techniques_for_detecting_vegetation__with_Satellite_Imaginary.pdf).
+The plagiarism report can be found [here](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/Task%204c4/PlagiarismReport_Deep_Learning_Techniques_for_detecting_vegetation__with_Satellite_Imaginary.pdf).
 
 ---
 
