@@ -31,7 +31,7 @@ The full project code can be found [here](https://github.com/Abrarkhan88/CSE424/
 ---
 
 ## Task 4c3: PDF Report of Mini-Project
-The full PDF report of the mini-project can be accessed [here](https://drive.google.com/file/d/1IHnUASN_TAhY-aydiRnD6SzYNYtxxU5v/view?usp=sharing](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/Task%204c3/Deep_Learning_Techniques_for_detecting_vegetation__with_Satellite_Imaginary.pdf)).
+The full PDF report of the mini-project can be accessed [here](https://github.com/Abrarkhan88/CSE424/blob/main/Task%204/Task%204c3/Deep_Learning_Techniques_for_detecting_vegetation__with_Satellite_Imaginary.pdf).
 
 ---
 
