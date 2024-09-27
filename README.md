@@ -1,4 +1,4 @@
-# Detecting Vegetation Degradation with Satellite Imagery using Deep Learning Techniques
+# CSE424 Pattern Recognition 
 
 ## Task 1: Hands On Video
 Link to the hands-on video can be accessed [here](https://youtu.be/9SAgpccuxOE?si=H-LAph5Z-79jAfla).
